@@ -1,0 +1,10 @@
+Total_Return_Index_Value(for each investment grade bond),Effective_Federal_Funds_Rate
+Bank_Prime_Loan_Rate,NASDAQCOM
+CBOE_Volatility_Index_VIX,TED_Spread
+DJIA,Trade_Weighted_USD_Index
+SP500,WILL5000_Total_Market_Full_Cap_Index
+Trade-Weighted US$ vs currencies of major US trading partners,Wilshire_US_Real_Estate_Securities_Total_Market_Index
+3m_Financial_Commercial_Paper_Rate,Slope
+3m_Nonfinancial_Commercial_Paper_Rate,Curvature
+3m_LIBOR_based_on_USD,Credit Spread of the Last 3 Days
+Economic_Policy_Uncertainty_Index,Credit Spread (= Effective Yield - 10y_Treasury_Constant_Maturity_Rate)
